@@ -1,0 +1,8 @@
+numpy==1.17.0
+torch==1.8.0
+pytorch-crf==0.7.2
+transformers==4.9.0
+tensorboard==2.8.0
+tensorboardx==2.4
+tqdm==4.62.0
+pyyaml==5.4.1

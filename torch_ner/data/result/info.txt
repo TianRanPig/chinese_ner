@@ -1,0 +1,9 @@
+dev.json:
+sentence_num: 1343	char_num: 50260	entity_num: 2219
+
+test.json:
+sentence_num: 1345	char_num: 50972	entity_num: 0
+
+train.json:
+sentence_num: 10748	char_num: 401764	entity_num: 17501
+
